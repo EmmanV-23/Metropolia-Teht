@@ -5,6 +5,7 @@
 import math
 #Pinta-alan laskukaava : kanta*korkeus
 #Piiri laskukaava: 2*kanta+2*korkeus
+print("Kirjoita suorakulmion kannan ja korkeus ")
 
 kanta=int(input("Suorakulmion kanta:"))
 korkeus=int(input("Suorakulmion korkeus:"))
