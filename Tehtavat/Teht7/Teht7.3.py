@@ -16,7 +16,7 @@ while True:
 
 
     elif valinta == "1":
-        icao = input("Anna lentoaseman ICAO-koodi: ")
+        icao = input("Anna ICAO-koodi: ")
         nimi = input("Anna lentoaseman nimi: ")
         lentoasemat[icao] = nimi
         print("Lentoasema tallennettu.")
